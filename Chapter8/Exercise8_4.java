@@ -51,13 +51,5 @@ public class Exercise8_4 {
         }*/
         return totalHours;
     }
-/* 
-    public static int getRowTotalHour(int[][] m, int row) {
 
-        int total = 0;
-        for (int column = 0; column < m[row].length; column++) {
-            total += m[row][column];
-        }
-        return total;
-    }*/
 }
