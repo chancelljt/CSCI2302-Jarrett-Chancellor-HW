@@ -1,5 +1,6 @@
 /*
- *  (The number of even numbers and odd numbers) Write a program that reads ten 
+
+*  (The number of even numbers and odd numbers) Write a program that reads ten 
 integers, and then display the number of even numbers and odd numbers. Assume 
 that the input ends with 0. Here is the sample run of the program.
  */
